@@ -1,9 +1,16 @@
 # Twitter-Clone
-	My first Full-stack App.
+My first Full-stack App.
+A Twitter clone made using React, Redux, Node.js, Express.js, MongoDB, and Mongoose.
+
+
 
 # MERN Stack Project: Build and Deploy a Twitter Clone From Scratch | JWT, Socket.io
 
-![Demo App](https://i.ibb.co/f8y9vGS/Group-82.png)
+![X](https://teerthadeb.github.io/Portfolio/static/media/project-4.9c465582a9466fa3dc12.png)
+
+
+# Demo:
+![DEMO] (https://youtu.be/l-9I7H9zHBs)
 
 Some Features:
 
