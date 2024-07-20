@@ -4,9 +4,15 @@ A Twitter clone made using React, Redux, Node.js, Express.js, MongoDB, and Mongo
 
 
 
-# MERN Stack Project: Build and Deploy a Twitter Clone From Scratch | JWT, Socket.io
+# MERN Stack Project: Build and Deploy a Twitter Clone From Scratch.
+# This site is live at : https://twitter-clone-ki06.onrender.com/
+## wanna check out safely?
+###  use username as : TeerthaDeb and password as: 123456
 
-![X](https://teerthadeb.github.io/Portfolio/static/media/project-4.9c465582a9466fa3dc12.png)
+
+
+
+## ![X](https://teerthadeb.github.io/Portfolio/static/media/project-4.9c465582a9466fa3dc12.png)
 
 
 # Demo:
